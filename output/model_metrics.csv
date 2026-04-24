@@ -1,0 +1,13 @@
+﻿모델,지표,값
+로지스틱회귀,Accuracy,0.89
+로지스틱회귀,F1,0.8898
+로지스틱회귀,Precision,0.8922
+로지스틱회귀,Recall,0.8873
+랜덤포레스트,Accuracy,0.8422
+랜덤포레스트,F1,0.8383
+랜덤포레스트,Precision,0.86
+랜덤포레스트,Recall,0.8176
+XGBoost,Accuracy,0.8545
+XGBoost,F1,0.8514
+XGBoost,Precision,0.8704
+XGBoost,Recall,0.8333
